@@ -10,6 +10,9 @@
 # testing
 /coverage
 
+# performance testing artifacts
+/performance/results
+
 # misc
 .DS_Store
 .env.local
